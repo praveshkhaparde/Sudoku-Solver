@@ -1,15 +1,21 @@
 # Sudoku Solver and GUI
 
+This project provides a simple Sudoku solver implemented in Python, along with a graphical user interface (GUI) to interactively solve Sudoku puzzles.
 
-This project provides a simple Sudoku solver implemented in Python, along with a graphical user interface (GUI) built using the Tkinter library to interactively solve Sudoku puzzles.
+---
 
-Features :
+## Features
 
-• Solve Sudoku puzzles of varying difficulties.
+- Solve Sudoku puzzles of varying difficulties  
+- Graphical user interface for easy input and interaction  
+- Displays the solution to the Sudoku puzzle
 
-• Graphical user interface for easy input and interaction.
+---
 
-• Displays the solution to the Sudoku puzzle.
+## SUDOKU SOLVER | SELF PROJECT
 
-• Developed Sudoku solver using back track algorithm for solving complex puzzles, improving python skills
-• Intergrated GUI (Graphical User Interface), via Pygame, for ease of accessibility and interactive experience
+**Self Project | January’23**
+
+- Developed a Sudoku solver using the backtracking algorithm for solving complex puzzles, improving Python skills  
+- Integrated a GUI (Graphical User Interface) via Pygame for ease of accessibility and an interactive experience
+
